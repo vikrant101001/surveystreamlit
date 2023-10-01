@@ -1,0 +1,116 @@
+**CTS 3XXX Cloud System Administration and Operations Syllabus**
+*Course Duration: 16 weeks*
+
+*Institution: Miami Dade College*
+
+*Certification: Part of the Advanced Technical Certificate in DevOps.*
+
+---
+
+**Learning Objectives:**
+
+By the end of this course, students will be able to:
+
+1. Understand the fundamentals of Systems Operations on AWS.
+2. Use AWS tools for system administration and automation.
+3. Implement and manage computing servers and containers in AWS.
+4. Design scalable and resilient architectures in AWS.
+5. Understand and utilize AWS storage and archiving solutions.
+6. Monitor, secure, and optimize AWS resources.
+7. Develop automated and repeatable deployments.
+
+---
+
+**Course Outline and Structure:**
+
+***Week 1 & 2:***
+
+**Course Welcome and Overview**
+
+- Pre-Course Survey
+- Overview Video
+- Project Handout
+- How to complete lab exercises
+- Course Support Discussion Topic
+- General Discussion
+
+***Week 3 & 4:***
+
+**Module 1 - Understanding Systems Operations on AWS**
+
+- Section 1-3: Introduction, Overview of Labs, AWS IAM
+- Demos: Amazon CLI, IAM Policy Simulator
+- Activity 1: Install and Configure the AWS CLI (100 points)
+- Lab 1: AWS CLI Practice (100 points)
+- Module 1 Knowledge Check (100 points)
+
+***Week 5 & 6:***
+
+**Module 2 - Tooling and Automation**
+
+- Section 1-3: Introduction, AWS Systems Manager, Additional Administration Tools
+- Lab 2: Using AWS Systems Manager (100 points)
+- Activity 2: Create a Website on S3 (100 points)
+- Module 2 Knowledge Check (100 points)
+
+***Week 7 & 8:***
+
+**Module 3 - Computing Servers & Module 4 - Computing, Scaling, and Name Resolution**
+
+- Sections and Demos pertaining to Amazon EC2, Security Groups, Autoscaling, Route 53
+- Lab 3: EC2 and Auto Scaling (100 points)
+- Activity 3-4: Troubleshoot Create Instance, Route 53 Failover Routing (100 points each)
+- Module 3 & 4 Knowledge Check (100 points each)
+
+***Week 9 & 10:***
+
+**Module 5 - Computing, Containers, and Serverless**
+
+- Sections, Demos, and Activities on AWS Lambda, APIs, Amazon API Gateway, Containers, ECS, AWS Fargate
+- Lab 4: Lambda and Containers (100 points)
+- Activity 5: Working with AWS Lambda (100 points)
+- Module 5 Knowledge Check (100 points)
+
+***Week 11 & 12:***
+
+**Module 6 - Computing Database Services & Module 7 - Networking**
+
+- Sections and Demos on AWS Database Services, Amazon RDS, DynamoDB, VPC Components, Connectivity Options
+- Lab 5-6: Migrate to Amazon RDS and Configure VPC (100 points each)
+- Activity 6-7: Migrate to Amazon RDS, Troubleshoot a VPC (100 points each)
+- Module 6 & 7 Knowledge Check (100 points each)
+
+***Week 13 & 14:***
+
+**Module 8 - Storing and Archiving & Module 9 - Monitoring and Security**
+
+- Sections and Demos on Cloud Storage, Amazon EBS, EFS, S3, S3 Glacier, Amazon CloudWatch, CloudTrail
+- Lab 7-8: Managing Storage, Monitoring Infrastructure (100 points each)
+- Activity 8-9: Work with Amazon S3, AWS CloudTrail (100 points each)
+- Module 8 & 9 Knowledge Check (100 points each)
+
+***Week 15 & 16:***
+
+**Module 10 - Managing Resource Consumption & Module 11 - Creating Automated and Repeatable Deployments**
+
+- Sections and Demos on Tagging, Cost Management Tools, Configuration in the Cloud, JSON/YAML, AWS CloudFormation, CI/CD
+- Lab 9-10: Managing Resources, Automation with CloudFormation (100 points each)
+- Activity 10-11: Optimize Utilization, Troubleshoot CloudFormation (100 points each)
+- Module 10 & 11 Knowledge Check (100 points each)
+  
+- Course Reflection & Feedback
+- Certification Exam Preparation
+  - Practice Exam (100 points)
+  - Certification Discussion
+  - Explore job opportunities with the AWS Educate Job Board
+
+---
+
+**Grade Scale:**
+
+- A: 90-100%
+- B: 80-89%
+- C: 70-79%
+- D: 60-69%
+- F: Below 60%
+
