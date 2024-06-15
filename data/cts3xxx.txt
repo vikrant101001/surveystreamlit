@@ -1,116 +1,503 @@
-**CTS 3XXX Cloud System Administration and Operations Syllabus**
-*Course Duration: 16 weeks*
+My AI Question:
+I am an Executive Coach for the CEO of the Academy of Ophthalmology. I am conducting a 360-feedback survey on his leadership impact and want a summary segmented into 3 categories: strengths, opportunities and recommendations.  Include, at the beginning of the report, summarized data by rank and title.  Please provide this as an Executive Report that could be presented to the CEO.
 
-*Institution: Miami Dade College*
+Vision and Direction:
 
-*Certification: Part of the Advanced Technical Certificate in DevOps.*
+•	How effectively does the CEO communicate the company’s vision and strategic direction to the executive team and broader organization?
 
----
 
-**Learning Objectives:**
 
-By the end of this course, students will be able to:
+(GS- VP OPH SOCIETY & GLOBAL) Regular (weekly) Executive Team meetings provide opportunity to share CEO’s vision and strategic directions with VPs as well as to respond to questions.
 
-1. Understand the fundamentals of Systems Operations on AWS.
-2. Use AWS tools for system administration and automation.
-3. Implement and manage computing servers and containers in AWS.
-4. Design scalable and resilient architectures in AWS.
-5. Understand and utilize AWS storage and archiving solutions.
-6. Monitor, secure, and optimize AWS resources.
-7. Develop automated and repeatable deployments.
+(BM- DIRECTOR of STATE GOVERNMENT AFFAIRS) Very effectively. Academy staff and physician volunteers seem to be very responsive to his vision
 
----
+(JK-VP MEMBERSHIP AND ALLIANCES) Dr. McLeod has a clear vision for the Academy and to ensure its relevance and sustainability. He is a visionary and thinks several steps ahead, which at times may feel abstract and very distant from day-to-day operations. Although there is discussion among the executive team and board level about the organization’s mission, vision statement and organizational goals, it’s unclear if the broader staff team has a clear understanding of the strategic direction and objectives. The broader team relies on the executive team, directors, and managers to convey and interpret the organizational direction and goals. This may dilute message consistency and focus. 
+(MS JD- GEN COUNSEL and LEGAL) Stephen effectively communicates his high-level vision and goals for the organization. He is a visionary leader, with a growth-oriented mindset for the Academy. It is not his intention to run business as usual, but instead, to improve Academy operations and expand its footprint and reputation. He has made clear his goals to grow the Academy’s operations and reputation, and his expectations for the Executive Team to help implement those goals.
+(FLMD and VP of QUALITY AND DATA SCIENCE) Extremely well. 
+(BB-DIRECTOR of MARKETING) To exec team: possibly quite well, but to the broader organization, not very well. I think the org relies on the VPs to communicate stuff to their teams and not all the VPs share information well (or at all). There’s not enough communication directly from the CEO to the organization. 
+(SM- DIRECTOR of PUBLIC RELATIONS) Dr. McLeod’s decision to establish True North Pillars with strategic priorities early on was an effective way to communicate his vision and direction. Establishing a level set across the Academy was extremely important. Being able to see his priorities in writing was helpful to all staff, in my opinion
+(JC- VP IT) He is a visionary.  I would recommend he speak more about strategic vision and strategy with the executive team and staff. He should also verify that his audience follows what he is saying. I have seen some instances where he has discussed a topic/direction, and it was hard for some to determine their next steps from his communication.
+(RH- VP OF GOVERNMENT AFFAIRS) In my experience, the CEO can clearly articulate the Academy’s vision/strategic direction/policy. 
+(BK- DIR HEALTH POLICY) Dr. McLeod is very effective at communicating the company’s vision to the director team and broader organization. Strategic direction is less impactful as it’s filtered through the executive team, who then effectuate the tactics specific to their team.  
+(DE- DIR of BRAND & CREATIVE) The development of our True North Pillars with strategic priorities is useful and important. However, it is often challenging for those department/divisions within the organization, who interact with all or most of the Academy divisions, to properly align and efficiently prioritize work to achieve long term objectives.
+(DR-VP of MEETINGS & EXHIBITS) I think this is an area that could be improved. While I believe that Stephen feels he is clear, he often speaks with academic words that some may not know and speaks in a roundabout manner so it’s difficult to follow what he is saying.
+(MR- DIRECTOR OF FINANCE) – DIRECTOR OF FINANCE) I am not always in the room when these things are discussed. From my limited exposure with the executive team I have heard his vision and direction very clearly.  From the perspective of the broader organization the message tends to get watered down or abbreviated. My assessment of his vision is use our time better, don’t do more, do what we do efficiently.  Think about ways we need to evolve as an organization.  We will die on the vine if we don’t change.  There doesn’t seem to be a correlation between becoming more efficient (per leader) will translate into saving or protecting sight.  
+(TMGOV- VP OF THE FOUNDATION)- Stephen presents to the broader organization succinctly and well. I enjoy listening to him communicate his vision and strategic direction at the board meetings.  When asked, I’m not quite sure what his vision or strategic direction really is, I understand more projects vs. where we are headed as an organization.  There seems to always be new things.  The vision is almost so many projects, they are coming all at once.  When Stephen communicates, he gives you bullet points and doesn’t give you more than that.  We miss the mark sometimes.  Sometimes we don’t.  Stephen communicates eloquently at a high level. With the executive team he is not as clear, and his style is not to be directive though he is a visionary and has our deep respect.  He has lofty, innovative goals for the organization, but it is left to us to really focus on what he is saying, listen carefully to understand what he is asking of us to meet his objectives. He wants us to work with our teams and respond in a timely way to what he needs from us even if we only heard it once and sometimes, we don’t get it right. I think this is where he depends on Lawrence to translate or direct us. Much of the time Lawrence is not happy with how we respond, stating for Stephen that this isn’t what Stephen wants or this is not what he said, so there is often a lack of clear communication and therefore lack of understanding about the project direction.  It also happens that we attempt to do what we believe is asked of us by Stephen and report up to Lawrence as gatekeeper who continues to be unhappy sending our work product back for multiple revisions.  My work tends to be wasteful and duplicative when Stephen and Lawrence aren’t aligned.  Lawrence is trying to translate what Stephen is asking.  In the Executive team, Lawrence will do most of the talking, Stephen doesn’t talk until Lawrence asks him if he’s on the right track.  It would be more comfortable if it were coming from Stephen, he assumes the COO spot. 
 
-**Course Outline and Structure:**
+(DM-DIRECTOR OF ONLINE EDUCATION) I’m not part of the executive team so can’t effectively comment there. As to Dr. McLeod’s direction to the broader organization, I find him an effective speaker and writer, and he asks for engagement—he would rather talk with someone, not to her. He is more accessible as a result. I don’t have a strong sense of his overarching vision, but he stresses quality and the trust that the Academy brand engenders, and protecting these seem to be his primary interest.   What I know about the vision and direction is only from my VP, no one else.  For the strategic direction, it’s through Lawrence or other VP’s to translate what his vision is.  Not clear.  North Pillars maybe? 
 
-***Week 1 & 2:***
+(JBENJ- DIRECTOR OF THE MUSEUM OF THE EYE) A year ago Stephen rolled out the idea of True North Pillars with fiscal year deliverables. It is currently time to set goals again and I haven’t heard anything about the pillars this year. In general, Stephen does an excellent job briefing us about what is going on at the all-staff meetings. It is understood that the projects he describes are part of the Academy’s strategic goals, but they aren’t often framed up, so staff can see how they align up to the pillars…or a larger (multi-year?) strategy. 
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) He is very mission driven and always ties projects back to our True North pillars.
+(LMENDEN- COO) He has set an excellent vision and direction for the organization and team. It has taken time for it to be communicated and he has relied on others (e.g., Lawrence), which is helpful but there is no substitute for direct, short and easy-to-understand messages from him.
+(GAIL SCHMIDT- VP SOCIETY and GLOBAL RELATIONS) Regular (weekly) Executive Team meetings provide opportunity to share CEO’s vision and strategic directions with VPs as well as to respond to questions. It is beneficial for CEO to continue to communicate following Board meetings to All staff – direction; major outcomes; any new programs/issues, etc.  This engages/motivates all staff and makes them feel part of a broader team. Sometimes he needs to provide ET with greater clarity – as
+non-physicians, we sometimes need more explanation
+(DALE FAJARDO – VP EDUCATION) I believe the CEO communicates the company’s vision and strategic direction quite well. His efforts to focus on the Academy’s byline (protect sight, empower lives) are very much appreciated (especially from a symbolic lens)..
+•	Please comment on what makes him least or more effective?
+(GS- VP OPH SOCIETY & GLOBAL) Least effective: It is beneficial for CEO to continue to communicate following Board meetings to all staff – direction; major outcomes; any new programs/issues, etc.  This engages/motivates all staff and makes them feel part of a broader team. Sometimes he needs to provide ET with greater clarity – as non-physicians, we sometimes need more explanation
+(BM- DIRECTOR of STATE GOVERNMENT AFFAIRS) He is a tremendously engaging speaker who captures his audience’s attention with a quality that makes it seem he’s talking directly to you in a clear and pragmatic manner.
+(MS JD- GEN COUNSEL and LEGAL) Stephen is very clear about his overarching goals for how he would like to see the Academy improve its existing operations, as well as his ideas for new projects or programs.
+(FLMD and VP of QUALITY AND DATA SCIENCE) He is very articulate and consistent in his communications, and the vision and strategic direction is well aligned with his actions and behaviors.  
+(JC- VP IT) Not clear in his direction with the Executive Team, people are left without knowing what to do after he speaks. 
+(JC- VP IT) He is credible and authoritative when he talks about vision and strategic direction.
+(RH- VP GOVERNMENT AFFAIRS) While the message he is trying to convey is clear and well thought out, it can sometimes be difficult to hear our CEO speak in certain large meeting settings if there isn’t a microphone or in zoom meetings taking place in a conference room. 
+(BK- DIR HEALTH POLICY) I find the CEO section of our All-Staff meetings effective at communicating vision. Whenever we’re able to have them, 1:1’s with Dr. McLeod have helped me feel more clued into the strategic direction of the Academy. 
+(DE- DIR of BRAND & CREATIVE) The feedback I have heard from staff is that they really like to hear from him, but that he can sometime talk a lot. I would recommend being more concise communications would make him more effective.
+(DR – VP MEETINGS & EXHIBITS) He obviously is very smart and knows a lot, but it appears he sometimes has trouble explaining things so everyone can understand.  I consider myself a smart person and I sometimes lose what he is trying to say. When speaking to the staff, he looks visibly uncomfortable and tends to ramble, so the message is lost. 
+(MR- DIRECTOR OF FINANCE) - Director of Finance He speaks very purposefully.  I find it very effective. .  Efficiency is what he wants better. He should say “we need to be more efficient” and needs to give us more clarity on what, how to think about it, and how do we organize around being more efficient? He should tell Lawrence, the COO, how to orchestrate this. More targeted or specific messaging would only further his vision and strategic direction for the executive team and the broader organization.
+(TMGOV- VP OF FOUNDATION) Stephen is very effective as a visionary leader. He has brought so much new and exciting programs to the Academy in a short period of time and is moving us up and onward. I feel like his positivity is contagious. I enjoy working with him.  I think all of us as staff would like see him present an in-depth, comprehensive, all-encompassing vision regarding the ways he envisions the organization cross divisionally with all of his new initiatives working together towards an Academy 2.0 under his leadership. I understand there are many big initiatives underway and more coming (like coaching which is something new I just heard about) so overarching his voice is what I want to hear.  
 
-**Course Welcome and Overview**
+(DM-DIRECTOR OF ONLINE EDUCATION) Dr. McLeod keeps an academic air and his written communication sometimes favors the Henry James school over the Hemingway—which is to say, it can be florid or tortuous. I think he may get more mileage from straight shooting when his perspective needs to be understood immediately. I see this level of directness in correspondence with the executive team (which I do sometimes see, too), but when the message reaches the broader organization, it’s sometimes a labyrinth. His communication around vision is abstract and haven’t heard from him directly.  I appreciate that he wants engagement and wants debate and is not autocratic.  It feels empowering to me with being really engaging.  He leans in physically, however with Dr. Parker (old leadership), you could see the body language that wasn’t inviting at all.  Dr. Parker would circle around to everyone before the meeting, get the answers and then communicate the results without a lot of engagement in the actual meeting.  Dr. McLeod is much more democratic and solicits debate.  
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) He likes to let the team develop ideas without much direction or input from him. I think this works some of the time but there are times when it seems as though he has a direction/plan in his mind that he would like a project to move in but doesn’t really communicate that to staff and is then disappointed when they don’t deliver what he was envisioning. 
+(LMENDEN- COO) Repetition and consistency of the vision and direction have helped make the communication more effective. The level of nuance, discussion and volume (number) of words and concepts that he is comfortable with, coming from an academic environment, make communications less effective to broad, diverse groups.
+(GAIL SCHMIDT- VP SOCIETY and GLOBAL RELATIONS) Possesses great vision and willingness to move the Academy in new directions which is exciting. Very transparent; trustworthy; appreciates and actively seeks input.
+(DALE FAJARDO- VP EDUCATION) He is very effective by leading from the front and by example. Going to the Hill to testify before Congress is a shining star example. 
+•	Recommendations on what he could do to improve or sustain current actions?
 
-- Pre-Course Survey
-- Overview Video
-- Project Handout
-- How to complete lab exercises
-- Course Support Discussion Topic
-- General Discussion
+(GS- VP OPH SOCIETY & GLOBAL) Greater clarity to the Executive Team and Staff.  Make it easy for everyone to ask for clarity.  Have consistent and engaging communications with staff, and the broader organization.  His direction is lost in translation to the people that get the work done. 
 
-***Week 3 & 4:***
+(BM- DIRECTOR of STATE GOVERNMENT AFFAIRS) Perhaps a regularly scheduled communication – not necessarily a verbal presentation, but perhaps a quarterly update to the staff from his POV.  
 
-**Module 1 - Understanding Systems Operations on AWS**
+(JK-VP MEMBERSHIP AND ALLIANCES) Effectively communicating the company’s vision and strategic direction is crucial for alignment and success across all levels at the Academy. Regular vision sharing sessions where the broader team can hear directly from Dr. McLeod can help bridge this gap. While I understand the CEO is tasked to advance the organization and thinks at the 30,000-feet level, staff is also leaning in on him to articulate the vision in more tangible terms. Providing context and utilizing real-time examples and use cases can help the broader team understand the “why” and “how”, which can improve staff engagement and understanding of how they individually contribute to the vision statement of “To be the most valued and credible professional eye care organization.”   *The executive team can benefit from a strategic planning retreat lead by Dr. McLeod to discuss the intricacies of the Academy’s overarching vision and direction and to elucidate the vision*. This is an opportunity for Dr. McLeod to share detailed insights, contextualize strategic decisions and address any questions to ensure the executive team is equipped to translate this into actionable goals and initiatives, and alignment across business units.
 
-- Section 1-3: Introduction, Overview of Labs, AWS IAM
-- Demos: Amazon CLI, IAM Policy Simulator
-- Activity 1: Install and Configure the AWS CLI (100 points)
-- Lab 1: AWS CLI Practice (100 points)
-- Module 1 Knowledge Check (100 points)
+(MS JD- GEN COUNSEL and LEGAL) One area of improvement might be to offer more specific details about his expectations of new projects. More concrete plans, and sometimes even steps to implement those plans, might help ensure smoother and quicker implementation of his vision. As stated above, the Executive Team and the Academy might benefit from Stephen offering more concrete and incremental goalposts toward accomplishing his larger goals. 
+(FLMD and VP of QUALITY AND DATA SCIENCE) I think that although it might not seem to be needed, perhaps repetition of vision and strategic direction would help to solidify this.  
+(SM- DIRECTOR of PUBLIC RELATIONS) Sustaining and reinforcing the vision overtime appears to now be dependent on individual VPs to keep the Pillars at the forefront and holding their staff accountable, at least from what I’ve observed. Communicate, clarity and integrate his vision and direction into daily operations in a seamless way might help sustain his current approach. 
+(JC- VP IT) I would recommend he speak more about strategic vision and strategy with the executive team and staff. He should also verify that his audience follows what he is saying. I have seen some instances where he has discussed a topic/direction, and it was hard for some to determine their next steps from his communication.
+(RH – VP GOVERNMENT AFFAIRS) Be clear, with adequate volume so your audience can hear you.  
+(BK- DIR OF HEALTH POLICY) More frequent 1:1’s. Perhaps twice-yearly Town Hall meetings with all the directors?
+(DE- DIR OF BRAND & CREATIVE) Coming from the top down, it is critical to have as much alignment within the organization in terms of communications, business practices and standards, organizational culture, and technology. These are things where I see an opportunity to bridge some gaps and evolve how we work. This could help staff meet speed-to-market demands of final deliverables and achieve a more rewarding and fulfilling work culture where there is increased communication, collaboration, and innovation.
+(DR- VP MEETINGS & EXHIBITS) He may benefit from a communication coach to help refine his body language, focus his message and learn to speak at a level meant for the public (8th grade reading level or lower). 
+(MR- DIRECTOR OF FINANCE) - Director of Finance More targeted or specific messaging would only further his vision and strategic direction for the executive team and the broader organization.
+(TMGOV- VP OF FOUNDATION) I respect his style and approach which is one of delegation, however, we take two steps to get to one every time Lawrence takes on the role of communicating for Stephen. 
 
-***Week 5 & 6:***
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) Communicate more clearly and directly with staff to ensure they understand project priorities, direction, and expectations.
+(LMENDEN- COO) Focus on communicating in short, digestible bites that reach more listeners with other styles. Repeat and stay consistent with those messages. 
+(GAIL SCHMIDT- VP SOCIETY AND GLOBAL RELATIONS) Continue to relay the ‘why’ we are moving in a new / different direction, so everyone understands and is in alignment with his vision.  Could also encourage communication from the VPs to their respective staff. 
+(DALE FAJARDO- VP EDUCATION) At time he might use “ums” as he is developing his thoughts in front of an audience. Many may see it as thoughtful reflection of a brilliant mind, but if used too often, it may be distracting. 
+Leadership Style:
 
-**Module 2 - Tooling and Automation**
+•	Can you describe the CEO’s leadership style, and how does it impact the organization’s culture and performance?
+(BM- DIRECTOR of STATE GOVERNMENT AFFAIRS) What makes him effective is that he doesn’t lead by carrying a “big stick,” or by “top-down” edicts from up on high (i.e. “my way or the highway”), but rather as a consensus builder by engaging all stakeholders. That said, he exudes great confidence and resolve in his decisions, which I believe resonates with the organization’s staff.  
 
-- Section 1-3: Introduction, AWS Systems Manager, Additional Administration Tools
-- Lab 2: Using AWS Systems Manager (100 points)
-- Activity 2: Create a Website on S3 (100 points)
-- Module 2 Knowledge Check (100 points)
+(JK-VP MEMBERSHIP AND ALLIANCES) Dr. McLeod is a visionary leader. He possesses strategic foresight and anticipates industry trends and environment shifts, which enables him to lead the Academy to pivot and retain our positioning as the global ophthalmology leader. 
 
-***Week 7 & 8:***
+Dr. McLeod has a clear vision for the Academy. However, as an introvert, he does not have a prominent presence among the broader team to help cultivate a cohesive organizational culture, particularly pertaining to accountability, recognition, and resource allocation. 
 
-**Module 3 - Computing Servers & Module 4 - Computing, Scaling, and Name Resolution**
+(MS JD- GEN COUNSEL and LEGAL) Stephen is very good at setting forth an overall view for the Academy, and the ultimate goals of new projects or initiatives. He values group discussion, and allows the Executive Team to discuss their different views, even when that process gives rise to divergent opinions. The positive effect of this approach is for each member of the Executive Team to feel heard.
+(FLMD and VP of QUALITY AND DATA SCIENCE) Leadership style is to lead by example, provide vision and strategic north pillars, place a high weight on well thought out, advance preparation, thorough approaches to problem solving.
 
-- Sections and Demos pertaining to Amazon EC2, Security Groups, Autoscaling, Route 53
-- Lab 3: EC2 and Auto Scaling (100 points)
-- Activity 3-4: Troubleshoot Create Instance, Route 53 Failover Routing (100 points each)
-- Module 3 & 4 Knowledge Check (100 points each)
+(BB- DIRECTOR of MARKETING) I would describe his leadership style as quiet, which makes it challenging to know where we’re going.
+(SM- DIRECTOR OF PUBLIC RELATIONS) From what I’ve observed, he is data-driven and takes a scientific approach to addressing issues. Use of an A3 approach to tackle issues/problems helps guide staff to appropriate solutions. He seems approachable, though I haven’t engaged him proactively. 
+(JC- VP IT) Collegial, collaborative, authoritative, and informed. Stephen’s leadership style gives the staff confidence that we are doing what is best for the members and heading toward new initiatives that will fit the Academy’s mission.
+(RH – VP GOVERNMENT AFFAIRS) From my perspective as a member of the Academy’s Executive Team, I have found the CEO’s leadership style to be collaborative because he involves us in the process and relies on us to help convey this information to our teams and physician leaders.  I think this collaborative style has brought a new energy to the Academy’s culture and our staff’s performance as people feel more connected.
+(BK- DIRECTOR of HEALTH POLICY) Dr. McLeod’s leadership style is collaborative. He’s well informed on all the issues, but he lets the subject matter expert take the lead. I think this establishes a culture of trust for our organization and encourages employees to be or become more confident in their own expertise.
+(DE- DIRECTOR of BRAND & CREATIVE) I would like it to be more transformational if that is possible. In terms of organizational culture, I believe if you ask different people within different roles, you are going to get different answers. It would be beneficial to have an agreed upon culture where there is more alignment with communications and behaviors within the organization.
+(DR- VP MEETINGS & EXHIBITS) I think we’re still learning his leadership style.  There is limited direct access to him. It’s not clear if Stephen wants the COO to be the middleman or if the COO wants it to be that way, but there is much less direct access to the CEO for many of the VPs than there used to be with previous CEOs.  This makes everything take longer because the VPs are often the ones who know the details of an issue.  It would be more effective and efficient to have them in the room when their issue is being discussed.
+(MR- DIRECTOR OF FINANCE) - Director of Finance He is very thoughtful in everything he does. For me and I think for the Academy there is a calming effect.
+(TMGOV- VP OF FOUNDATION) There are many new faces at the Academy, so I don’t know how Stephen’s style impacts the culture.  Many work remotely and it is difficult to ascertain what the culture is like these days.  On days like a Wednesday where we have more staff in the office, it would be great to see Stephen walk the halls and say ‘hello’.  It seems trivial but matters greatly to have that one on one connection to him from time to time.  It seems that everywhere I turn at the Academy every division feels they are too lean and need more people. I wonder how Stephen views staffing for revenue driver’s vs divisions which require revenue to succeed.
 
-***Week 9 & 10:***
+(DM-DIRECTOR OF ONLINE EDUCATION) Dr. McLeod’s leadership seems a balance amongst democratic, participative, and bureaucratic. He regularly seeks input from the larger group, seems to deliberate carefully and make inclusive decisions. He participates directly in meetings that his predecessor observed only, and he seeks active discussion and critical pushback against his own ideas. Occasionally, he favors firm policies and processes. In all I believe his leadership style encourages feedback and ideas from the larger organization, which supports growth and iterative change.   
+(JBENJ- DIRECTOR OF THE MUSEUM OF THE EYE) One of Stephen’s strengths is his relaxed affect. Although I wouldn’t characterize him as having an “open door” policy, I wouldn’t hesitate to approach him in the hall and say hello. I believe his leadership style is best exemplified by his asking staff to call him Stephen, rather than Dr. McLeod. This small thing puts people at ease. His speaking style at all staff meetings is likewise informal and as a result, I think staff see AAO as a friendly, collaborative workplace. 
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) He has a relaxed and casual style that makes people feel at ease. He is always friendly with staff and keeps his door open when he is not in meetings, which is very welcoming. He doesn’t micromanage and seems to prefer a more hands-off approach offering direction when it is asked for, but this can sometimes lead to a lack of clarity for staff who want to make sure his expectations are met. 
+(LMENDEN- COO) Very positive, very transparent, extremely strategic substantively and as far as relationships. Assumes everyone is as smart and committed as he is. These have helped inspire and fuel a positive culture and performance. Also very high standards—too high in some cases?—which are inspiring for some but can demotivate others who aren’t as used to the hierarchical and competitive world he seems to love. He is a delegator used to having a large team of doers, also is my impression. He also seems overstretched, not acting with great self-care at times, which long term may lead to burnout or frustration. When stressed, his communication can be experienced as more adversarial. 
+(GAIL SCHMIDT – VP SOCIETY AND GLOBAL RELATIONS) Strongly encourages collaboration across Academy divisions so that we continue to move away from silos. Is democratic with a team-based approach making staff feel valued and unified.  This is beneficial at the staff level as well as at the Board level. When necessary, as in times of ‘crisis’, is appropriately directive.  Could be at times more directive.
+(DALE FAJARDO- VP EDUCATION) I/we appreciate his relaxed leadership style that is based on an egalitarian approach. It’s been a refreshing change for the Board of Trustees, as the Board appears to be relaxed and willing to engage in more meaningful conversations, resulting/engendering a more engaged board, which is good. I sincerely appreciate his collaborative approach and willingness to listen to all colleagues at all levels of the chain of command. Knowing that he is open to input from all ensures that the best decision/strategy will come to fruition and be executed.
+•	What specific behaviors attribute to the CEO’s effectiveness as a leader?
 
-**Module 5 - Computing, Containers, and Serverless**
+(MS JD- GEN COUNSEL and LEGAL) Stephen listens attentively to his Executive Team, and readily provides positive reinforcement. He says “thank you” readily, and acknowledges team members’ contributions, and these behaviors help build camaraderie and a sense of being valued.
+(FLMD and VP of QUALITY AND DATA SCIENCE). Brilliant, intellectual thinker, strategic perspective, very high ethics and moral compass, empathy, sense of humor.
+(SM- DIRECTOR OF PUBLIC RELATIONS) I’ve heard from others… He may get in the weeds too much in editing communication vehicles such as Academy Express and Eye Net; however, that’s not been my experience. He clearly prioritizes taking positions based on the latest, peer-reviewed science, and I appreciate that. He’s protective of the Academy’s earned reputation
+(JC- VP IT) His communication style and level of engagement. 
+(RH – VP GOVERNMENT AFFAIRS) He makes a point of meeting with the directors in the Governmental Affairs division when he is in the DC office and think that has been very effective in making them feel valued and that their opinions carry weight, particularly for some of our newer staff members. He doesn’t hesitate to get engaged in our advocacy efforts and frequently volunteers to reach out to key Academy members or his colleagues in other physician societies if it will be helpful for our efforts. I think that type of engagement from the top is important for our staff and physician volunteers to see because it is leading by example. I think it also makes them feel like their work/efforts are valued/appreciated by the Academy as an organization.
+(BK- DIRECTOR of HEALTH POLICY) Active listening.  
+(DE- DIR OF BRAND & CREATIVE) I think Dr. McLeod has integrity, confidence, and the ability to influence stakeholders.
 
-- Sections, Demos, and Activities on AWS Lambda, APIs, Amazon API Gateway, Containers, ECS, AWS Fargate
-- Lab 4: Lambda and Containers (100 points)
-- Activity 5: Working with AWS Lambda (100 points)
-- Module 5 Knowledge Check (100 points)
+(DR – VP MEETINGS & EXHIBITS) He is very smart. He knows a lot – about ophthalmology, health policy and other related topics.
 
-***Week 11 & 12:***
+(MR- DIRECTOR OF FINANCE) - Director of Finance What I have seen is the gathering of data and facts before action.  He also has a very easy manner about him which makes dialog collaborative.
 
-**Module 6 - Computing Database Services & Module 7 - Networking**
+(TMGOV- VP OF FOUNDATION) As a member of the Executive Team I feel that there is a high level of respect and attention paid to Stephen.  It is fortunate for me that I can hear directly from him and witness a high functioning team of professional’s work through challenges.  His style is calm and calming. He sets forth to always elicit opinions and his questions are posed to elicit ways to solve for a problem, not just manage top down with orders.  It is a very effective style.
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) His humility and willingness to listen to all sides. He is a deep thinker and does a great job of considering a problem from multiple angles before offering a solution. I also find him very responsive to questions and easy to work with and I appreciate his quick responses to emails, even when he is traveling overseas.
+(GAIL SCHMIDT- VP SOCIETY AND GLOBAL RELATIONS) Visionary thinker; effective listener; brilliant; collaborative leadership style.
+•	How could he enhance or maintain his current leadership style to better support organizational goals?
+(JK-VP MEMBERSHIP AND ALLIANCES) Increasing visibility and accessibility to him through routine touchpoints (e.g., in addition to CEO updates during quarterly all-staff meetings, consider attending a division or cross-divisional meeting on a key initiative to help frame the organizational objective) may enhance staff engagement and alignment with organizational goals.  
 
-- Sections and Demos on AWS Database Services, Amazon RDS, DynamoDB, VPC Components, Connectivity Options
-- Lab 5-6: Migrate to Amazon RDS and Configure VPC (100 points each)
-- Activity 6-7: Migrate to Amazon RDS, Troubleshoot a VPC (100 points each)
-- Module 6 & 7 Knowledge Check (100 points each)
+(MS JD- GEN COUNSEL and LEGAL) The team would benefit from more immediate concrete decisions on the specifics of how Stephen would like to see new projects implemented, to make workflow more efficient and avoid misunderstandings.
+(FLMD and VP of QUALITY AND DATA SCIENCE) Continue to uphold the vision, the large initiatives that draw us closer to achieving our overall strategic goals
+(SM- DIRECTOR OF PUBLIC RELATIONS) his focus on perfection may be making it stressful for employees who produce Academy Express and EyeNet, perhaps others.
+(JC- VP IT) Continue to be collaborative, seeking answers from the executive team. Talk about his vision more with the staff at large so that they hear from the CEO where they fit in. Stephen’s introduction of the True North pillars is a big help, but connecting that with what he is saying helps culturally.
+(BK – DIRECTOR OF HEALTH POLICY) I recommend providing directors (who have specific expertise in hot topics) a platform for doing presentations (internal or external) which would enhance his current leadership style of collaboration. It would also be a good way for the Academy to identify talent for succession planning. 
+(DE- DIR OF BRAND & CREATIVE) Get the organization into alignment, clarity of communication, develop a culture of performance improvement.  Currently there is a high degree of variability and lack of alignment.
+(DR- VP MEETINGS & EXHIBITS) Encourage more open discussion. Seek out other opinions to ensure he is getting the full story.
+(MR- DIRECTOR OF FINANCE) - Director of Finance I think if there was visible messaging from Dr. McLeod (CEO) or Lawrence (COO) about the changes, challenges, and progress it would push everyone towards the common goals of the Academy.
+(TMGOV- VP OF FOUNDATION) I’d suggest he maintain his leadership style with a caveat that he lead in front of Lawrence so that it cuts through the translation Lawrence places on “what Stephen wants”. 
 
-***Week 13 & 14:***
+(DM-DIRECTOR OF ONLINE EDUCATION) In meetings he expects discourse and would like to be challenged—it’s a bit Aristotelian. I think it’s effective. He is even-tempered and scholarly in most engagements—these support objective, lucid and evidence-based decision making at the organization level. He does not apologize when he overrides the group—he knows and appreciates his station, and he usually trusts the input of his staff first, I’ve observed. I don’t find Dr. McLeod exhibits charismatic or visionary traits. Both aren’t necessary but big audacious goals expressed clearly and with some measure of passion would probably help invigorate long-tenured staff who have been treading water and may have become complacent.  Please attempt to be more charismatic and visionary and circle with the departments once a month to check in with us. He has a good sense of humor but in larger group settings being more charismatic and not so abstract would help.  It would help if he was more personal and charismatic.  
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) I think he could be more direct and clearer in communicating his expectations and intended outcomes.  
+(LMENDEN- COO) Be willing to be the bad guy would make what he says more effective (not being unkind, just being less subtle and more direct), whether around organizational change or performance. Protecting against burnout, which can drive frustration. Working on making his communication shorter and more to the point for average listeners, as mentioned in the communications comments.
+(GAIL SCHMIDT- VP SOCIETY AND GLOBAL RELATIONS) Continue to consider new opportunities for Academy as he has already effectively demonstrated. Perhaps engage Trustees-at-Large with assignments. Consider opportunities for International Trustees to effectively contribute during in-person BOT meetings.
+(DALE FAJARDO- VP EDUCATION) Through his openness to new ideas is critical to arriving at the best outcome, he does have the license to be more directive so there is no ambiguity in his expectations. He is brilliant and a nice guy…People need to see that. Once they do, I expect they will be there to fight for his cause(s). People are the critical resource to ensure success. I’ve brought him to my division meeting and people appreciated hearing from him directly. Likewise, it also validates what I as the VP had stated previously, since our messages are in congruence resulting in a virtuous circle of trust and team engagement necessary to accomplish the mission.
+Decision-Making:
 
-**Module 8 - Storing and Archiving & Module 9 - Monitoring and Security**
+•	How does the CEO approach decision-making, especially in times of uncertainty or challenge?  
 
-- Sections and Demos on Cloud Storage, Amazon EBS, EFS, S3, S3 Glacier, Amazon CloudWatch, CloudTrail
-- Lab 7-8: Managing Storage, Monitoring Infrastructure (100 points each)
-- Activity 8-9: Work with Amazon S3, AWS CloudTrail (100 points each)
-- Module 8 & 9 Knowledge Check (100 points each)
+(BM- DIRECTOR of STATE GOVERNMENT AFFAIRS) Consensus Builder
 
-***Week 15 & 16:***
+(JK-VP MEMBERSHIP AND ALLIANCES) I appreciate Dr. McLeod’s methodical approach in handling of complex and challenging situations. He seeks input from various stakeholders and leverages data to make informed decisions. 
 
-**Module 10 - Managing Resource Consumption & Module 11 - Creating Automated and Repeatable Deployments**
+Dr. McLeod was instrumental in guiding the Academy and the Board to focus on the international market. This is a significant shift from past administrations. Dr. McLeod saw the stagnant financials, solicited feedback from stakeholders, reviewed the data and projections, and ultimately made the decision to further expand into the international market. 
+(FLMD and VP of QUALITY AND DATA SCIENCE). He is very systematic and thorough in his approach to decision-making, and careful to include different scenarios and perspectives, and invites input, as appropriate from staff and Board or other physician leaders. 
+(JC- VP IT) Logical, analytical and data-driven approach to making decisions.  
+(RH – VP GOVERNMENT AFFAIRS) He analyzes the situation and solicits input from other Academy physician leaders and staff on how the Academy should address/respond. I think that engagement allows us to reach decisions that are well thought out in a timely fashion.
+(DE- DIR OF BRAND & CREATIVE) I believe he is very analytical, thoughtful and data driven. I see him approaching problem solving in a very methodical manner based on his background and knowing he be is a big fan of using the A3 process.
 
-- Sections and Demos on Tagging, Cost Management Tools, Configuration in the Cloud, JSON/YAML, AWS CloudFormation, CI/CD
-- Lab 9-10: Managing Resources, Automation with CloudFormation (100 points each)
-- Activity 10-11: Optimize Utilization, Troubleshoot CloudFormation (100 points each)
-- Module 10 & 11 Knowledge Check (100 points each)
-  
-- Course Reflection & Feedback
-- Certification Exam Preparation
-  - Practice Exam (100 points)
-  - Certification Discussion
-  - Explore job opportunities with the AWS Educate Job Board
+(DR – VP MEETINGS & EXHIBITS) I think he tends to be very cautious when uncertain. He doesn’t appear to want to make waves, which is not unusual for a new CEO. You certainly don’t want to burn bridges right out of the gate. 
+(MR- DIRECTOR OF FINANCE) - Director of Finance I have very little exposure to this but in my view he gathers facts and does targeted analysis. Then that is overlayed on the broader environment.
 
----
+(TMGOV- VP OF FOUNDATION) I think Stephen has a propensity to stay away from the challenging HR type issues and leave all of that to Lawrence.  Stephen waits until the very end before deciding in Exec Meetings.  He never makes anyone feel badly or puts anyone down.  Very respectful of his people.  All or most feedback comes from Lawrence saying that “Stephen said this or that” but not direct decision making or communication.  
 
-**Grade Scale:**
+(DM-DIRECTOR OF ONLINE EDUCATION) Please see above. He takes care to get the full picture, acknowledge multiple sources, and deliberate. Direction thereafter is usually unwavering.
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) I don’t really work with him at that level but have noticed that he does like to gather information, consider all sides, and confer with experts on major issues. 
+(LMENDEN- COO) He is very scientific, wanting to understand all the data. This can be quantitative or qualitative/relational. He is highly skeptical. This can lead to being focused on downside risk. 
+(GAIL SCHMIDT – VP SOCIETY AND GLOBAL RELATIONS) Has in mind the correct course of action and actively gains input from the appropriate physician and taff experts in various strategic areas to assess.  For example, BOT/COS and staff leaders in state and federal advocacy.
+(DALE FAJARDO- VP EDUCATION) His open approach to allowing the group to weigh in to arrive at the best solution is immensely helpful. His supportive comments to help people feel comfortable expressing their ideas are appreciated and allow for good discourse.
+•	Can you provide examples of key decisions made under their leadership?
 
-- A: 90-100%
-- B: 80-89%
-- C: 70-79%
-- D: 60-69%
-- F: Below 60%
+(BM- DIRECTOR of STATE GOVERNMENT AFFAIRS) After seeking input with key AAO physician leaders, he set very clear parameters regarding AAO’s support and partnership with a specific state ophthalmology society.  These parameters were conveyed very clearly to all parties, which ultimately helped AAO staff manage the arrangement more effectively.
 
+(JK-VP MEMBERSHIP AND ALLIANCES) Also, in response to evolving member/consumer preferences and needs, he championed a member-centric strategy and backed the initiative for an overhaul of the Academy’s infrastructure (digital footprint as well as member record management). This is a significant investment—in dollars and staff resources—to future proof and position the Academy for long-term success. In both examples, I appreciated Dr. McLeod’s willingness to take calculated risks and to lead the organizational changes.
+(FLMD and VP of QUALITY AND DATA SCIENCE) Academy engagement and support of activities such as Digital Engagement Initiative to tie members closer to the Academy as a membership initiative, Sustainability, DEIA and FQHCs, Innovation in Ophthalmology, tying Academy membership to a dividend for OMIC
+(RH – VP GOVERNMENT AFFAIRS) The Academy’s Board of Trustees received a recommendation from several ophthalmic societies to establish an “advocacy fee” for members to help cover the costs of the Academy’s advocacy efforts. After a careful review led by Dr McLeod, the Board approved an alternative course of action to increase member engagement in advocacy.  Another example is over the past 1-2 years we have had a particularly challenging situation with the leadership of one state society which was impacting the effectiveness of our advocacy in that state but could have also negatively impacted our ability to engage sufficiently in other states. He engaged with our state government affairs leaders and senior staff to devise a strategy to help bolster this state society while preserving our limited resources for other state advocacy campaigns.
+(JC- VP IT) The Academy’s pursuit of a comprehensive digital engagement revamp.  The CEO indicating that it needed to be done and being willing to invest in doing it properly.
+(DR- VP MEETINGS & EXHIBITS) The digital engagement project is one. 
+(TMGOV- VP OF FOUNDATION) There have been many.  Stephen has directed the launch of the digital engagement project, the new CRM project, new research effort and the hiring of a key leader in that area with a reorganization of the Data and Quality Science area. a new all-academy event, large fundraising efforts for the Parke Center, ensuring that we are always clear on the science in terms of our communications vehicles, ensuring advocacy receives focus from communications, fundraising all with a full team hired in place. 
+(MR- DIRECTOR OF FINANCE) - Director of Finance Pursuing a compounding pharmacy, Changes to the AMS model to generate positive results, evaluating the Dues Structure for international regions, looking at the foundation structure and what it could do around research funding. Changes to QDS to focus on more research work and related grants. 
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) The Roe vs. Wade reversal occurred during our summer board retreat and Dr. McLeod worked quickly to gather information to frame a discussion on the Academy’s response with the board. The board ultimately decided not to issue a statement, but Dr. McLeod presented all sides of the issue and let them take the lead on a final decision. 
+(LMENDEN- COO) How to address challenges with the OMIC and Verana relationships, and financial and leadership challenges within AMS; how to address scope of practice legislation battles, particularly with the state society in California.
+(GAIL SCHMIDT – VP SOCIETY AND GLOBAL RELATIONS) Adding ‘research’ component to Academy mission statement. Active participation in testimony on Veterans Affairs (VA) issues. New international membership tiers/membership designation.
+(DALE FAJARDO- VP EDUCATION) Willingness to push for an expanded use of the social media Instagram account to highlight journal properties. Providing support for the use of a medical education company to follow a work-for-hire model that allowed the delivery of new content via educational grants that helped improve the Academy’s bottom line. 
+•	Please comment on what makes his behaviors least or more effective?
+(FLMD and VP of QUALITY AND DATA SCIENCE) I think the inclusivity and the thoughtfulness in approach make his behavior more effective.  
+(RH – VP GOVERNMENT AFFAIRS) The fact that he includes other Academy leaders is helpful because our staff knows that the physicians that they work most closely with are part of the decision-making process. It creates greater buy-in for when difficult decisions that could impact Academy staff have to be made, but I think it also helps them feel represented in the decision-making process.
+(DR – VP MEETINGS & EXHIBITS) I think not having all those involved in the room for decisions at times makes it difficult.  Of course, the CEO can always make whatever decision they want, but being that he is still relatively new, he should hear the history of why something is the way it is before making decisions about changing it.  
+(MR- DIRECTOR OF FINANCE) - Director of Finance He has an easy delivery when he communicates.  It makes the message resonate.
+
+(TMGOV- VP OF FOUNDATION)- VP of Foundation Stephen is our public facing leader and I am proud of him when he speaks wherever he speaks, to members, to donors, to key stakeholders.  He is incredibly intelligent and eloquent.  He is a very fine gentleman, physician and scientist.  He can be more effective with a firm hand on the decisions that impact the Executive Team and staff overall.
+
+(LMENDEN- COO) Communicating his decisions and the direction he wants clearly, in very boiled-down terms that reach those executives with less subtle communication styles, would be the most helpful.
+
+(GAIL SCHMIDT- VP SOCIETY AND GLOBAL RELATIONS) Actually provides opportunity for input / feedback from all BOT/COS members during BOT meetings prior to weighing in with ‘pre-determined’ solution  
+(DALE FAJARDO – VP EDUCATION) Most: The open approach to allow others to weigh in empowers his staff and allows for a positive feedback loop to continue the necessary discourse to arrive at a good solution.  Least: If people are struggling to come to a decision, don’t let them flutter in the wind too long. Feel free to coach/encourage them to move forward. 
+
+•	What improvements, if any, could be made to the CEO’s decision-making process?
+
+
+(JK-VP MEMBERSHIP AND ALLIANCES) One potential improvement in the decision-making process may be enhancing transparency and communication throughout the decision-making process to ensure all stakeholders are adequately informed and engaged. At times not all of the affected stakeholders receive the same communication. Some discussions and decisions are made in 1:1 or small group settings, and others learn of the decision through an intermediary. In the latter situation, it can be challenging to understand the rationale of the decision as well as the various factors considered before a decision is made.
+
+
+(BB- DIRECTOR OF MARKETING) He should talk to the VP leading an area before deciding about that area. For example, if making a brand decision like adding a new Instagram or X channel, he should talk to the VP who oversees the brand and social media to find out if they have any concerns and see if it fits into the existing agreed-upon strategy. Of course, he may decide to change the strategy but should at least have the convo.
+(JC- VP IT) Communicate more about how he is evaluating things when making decisions.
+(BK- DIRECTOR OF HEALTH POLICY) Looping in non-executive level employees into the decision-making process to understand how those decisions could impact their day-to-day would be an improvement.
+(DE- DIR of BRAND & CREATIVE) Recommend him to focus on being more strategic.
+(DR -VP MEETINGS & EXHIBITS) Including all those involved to hear the background and any potential concerns because of the decision. 
+(MR- DIRECTOR OF FINANCE) - Director of Finance He is off the charts smart.  I can’t add anything that might improve what he already does.
+
+(TMGOV- VP OF FOUNDATION)- VP of Foundation In my experience Lawrence wants to decide as a gate keeper what goes to Stephen, and I/we are not privy to those conversations or the translation that happens after Lawrence takes our case to Stephen.  This is where I think Stephen could call any of us into his office for information to make decisions without Lawrence’s input.  I think it would help each of us to feel that we are empowered to make decisions for our staffs with his approval, and less about Lawrence as information gatekeeper.
+
+(DM-DIRECTOR OF ONLINE EDUCATION) After looking over the Academy’s communication and web assets and understanding the history and challenges with each, Dr. McLeod directed management to undertake a digital engagement strategy project to reimagine the website and communication/email channels. This is a major undertaking across all divisions and will disrupt major systems and processes. He enabled each VP to manage their own domains in the rollout and work with a vendor to help discover root causes and offer solutions. I appreciate that he learned about the website before asking for change, he took his time to understand it, please consider continuing this style.  
+Please consider giving direct feedback after we’re in motion or executing projects to give us updates on how we’re doing.  
+
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) Dr. McLeod has an impressive vocabulary and sometimes his written responses to questions can be a little confusing – not a straight “yes” or “no”. This has been improving and I have noticed that he is much better at providing clearer answers. As he has become more experienced in his role, his decision-making has improved and he needs less time to decide, I think this will continue as time goes on and his experience continues to grow.
+(LMENDEN- COO) He is an excellent decisionmaker, I would recommend that he consistently asks himself, “What is my blind spot here? What is MY bias?” and being fully open to the feedback would be helpful. He is relentlessly scientific but also privileges or discounts information in ways that he may not be conscious of.
+(GAIL SCHMIDT-VP SOCIETY AND GLOBAL RELATIONS) At times, could jump in on BOT discussion/debate and provide clarity, thoughts.
+(DALE FAJARDO – VP EDUCATION) Don’t be afraid to admit a discussion is difficult and let people know that we can produce a solution. We/you don’t need to know everything. It might be difficult behind the scenes, but challenging conversations (usually) result in a better outcome. 
+Communication and Transparency:
+
+•	How transparent and consistent is the CEO in communicating important information and decisions to the executive team and employees?  
+(JK-VP MEMBERSHIP AND ALLIANCES) I think Dr. McLeod is an engaged leader and very approachable in 1:1 and small group settings. He is an excellent active listener. It may be helpful for a broader group of emerging and new managers to hear about his experiences and challenges to build camaraderie and engagement, and for him to hear about pain points among the different groups of personnel. It humanizes the position and reinforces that the Academy is a supportive and inclusive environment.  
+(FLMD and VP of QUALITY AND DATA SCIENCE) He is quite transparent and consistent in communicating information and decisions.  
+(JC- VP IT) His communication and transparency generally is good however it can be variable. For example, with the digital engagement effort, we went through a few iterations of who was going to head up the project, changing the leader(s). The back-and-forth about who was spearheading was very unusual and confusing.  
+(RH – VP GOVERNMENT AFFAIRS) I feel that the CEO is extremely transparent and consistent in how he shares information and decisions. He provides plenty of opportunity for questions and input from the executive team and other Academy employees.
+(BK- DIRECTOR OF HEALTH POLICY) Not consistent or transparent. The non-executive level employees do not find out about the decisions until they are already final or close to it. For example, I wasn’t asked for input on a project until the idea was already off the ground. This project, as currently described, would significantly affect my day-to-day. Several meetings had already happened, and I had to catch up to grasp what was trying to be done. I feel like I could have provided valuable insight and we could be further along with the project by now
+(DE- DIR OF BRAND & CREATIVE) There are too many layers and silohs with communication.  There is no one streamlined message updating on performance, reinforcing progress, pointing to our goals.  Everyone is working on their own.  
+(DR- VP MEETINGS & EXHIBITS) There is not a lot of direct communication from the CEO about major decisions. It mostly comes from the COO. And it can be difficult to discern what is the CEO’s decision and what is the COO’s decision. It’s often touted as the CEO’s decision, but then when following up with the CEO, it appears that something got lost in translation as he is not as concerned about “X” as the COO made it appear
+(MR- DIRECTOR OF FINANCE) - Director of Finance He is very consistent in his messaging. And from my view as transparent as he can be.  There is always information that shouldn’t be shared.  I think he does a good job treading that task. He communicates in person mostly at parties and holiday staff parties and the annual meeting, so it’s a few degrees of separation from me or my role.  I don’t see Dr. McLeod communicating on email or other vehicles.  
+(TMGOV- VP OF FOUNDATION)- VP of Foundation See above.  (This was copied in the above answer) In my experience Lawrence wants to decide as a gate keeper what goes to Stephen and I/we are not privy to those conversations or the translation that happens after Lawrence takes our case to Stephen.  This is where I think Stephen could call any of us into his office for information to make decisions without Lawrence’s input.  I think it would help each of us to feel that we are empowered to make decisions for our staffs with his approval, and less about Lawrence as information gatekeeper.  Not a lot of communication or direction or information about the path and direction we’re supposed to be headed. He’s not drilling down into the projects.  I would like to hear from him what the real priorities are, or is everything a priority?  We can tell that advocacy is the biggest priority because we make meaning out of language and conversations and because that’s where the Executives are spending their time in meetings.  We aren’t sure if this is right.  The whole priorities are being shifted but no one talks about it publicly. 
+
+(DM-DIRECTOR OF ONLINE EDUCATION) I feel he is mostly transparent and clear about decisions. I don’t think staff are regularly updated on his vision or how executive management is structured to enforce or establish its own vision either. “Performance” has not be clearly defined—we get some updates (not frequent enough) on the financial state of the organization. My recommendation is that he’s a better communicator with the details of other KPIs (besides revenue) that matter. I think most VPs trickle this down and don’t necessarily hear and share the same message to their managers and staff,
+
+(JBENJ- DIRECTOR OF THE MUSEUM OF THE EYE) Stephen consistently uses the all-staff meetings as a chance to talk to staff. I believe every employee looks forward to his updates as it is a glimpse into what is going on and his priorities. It is rare to get other communications from him. I think the last all staff email Stephen wrote was in June 2023 to say something about a supreme court decision. In general, AAO leadership relies on a trickle-down method of communication where the Vice Presidents are expected to verbally share what is happening to their teams. If there is email communication from the C-level, it almost always comes from Lawrence Mendenhall. Lawrence does come across as being transparent and open, which I assume is something Stephen approves of and encourages him to be with us.
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) I feel as though he is transparent and doesn’t intentionally keep things from staff, but I think he could be better at communicating information/decisions to staff who may be impacted more quickly so they have more time to respond if actions are needed.  
+(LMENDEN- COO) He is extremely transparent. He hides very little in terms of the Academy’s strategy, direction and developments, which is a strength and also a sign of his integrity. It also can result in information overload for executive team members who are over-focused on “But what does he want me to DO next? How will I be judged?”
+(GAIL-SCHMIDT- VP SOCIETY AND GLOBAL RELATIONS): Consistently takes part in weekly Exec Team meetings – communicates outcomes of external meetings in which he has participated; etc. Broader staff may like to hear ‘more’ from him - i.e. occasional ‘all staff’ email with update on program/issue/challenge/opportunity, etc.  
+(DALE FAJARDO-VP EDUCATION) He is transparent on multiple items, but some items aren’t completely clear to some, such as with the transition with the QDS VP. 
+•	Do you feel adequately informed about the company’s direction and performance?
+
+Yes
+Yes
+Yes
+Yes
+No
+Somewhat
+Yes
+Yes
+No
+Yes
+Yes
+Somewhat
+No
+Somewhat:  
+Somewhat
+No
+Somewhat
+
+•	How effective are his existing communication structures?
+
+
+(JK-VP MEMBERSHIP AND ALLIANCES). Because of my Vp position I have adequate information about the organizational direction and performance.  I think I only have this information because of the nature of my position, there is a dilution of information to the broader organization.  
+
+(FLMD and VP of QUALITY AND DATA SCIENCE) Emails, 1x1’s and meetings are very effective.
+
+(BB- DIRECTOR of MARKETING) People are frustrated that he relies on Lawrence to filter all information to/from him. This adds a layer of “telephone” into communications and Lawrence often doesn’t translate Stephen’s wishes or opinions correctly.
+(SM- DIRECTOR of PUBLIC RELATIONS) The CEO seems to relegate much of the general communication to the COO. 
+(RH- VP GOVERNMENT AFFAIRS) I think the existing structures work very well and I feel that I have plenty of opportunities to engage with him to get clarifications on policies or solicit his input on issues/policies.  I also like how he engages with the directors in my division on a regular basis. I feel like the opportunity for these 1x1 conversations with our CEO makes them feel like they have input into our policy/decision-making process. Staff outside of the Executive Team haven’t always had that opportunity.
+(JC- VP IT) My interactions with him are primarily at our executive team meetings. He is effective in this setting. Speaking for myself, it would be great to meet with him one-on-one once every four or six months. 
+(DR- MEETINGS & EXHIBITS) As noted above, he is very responsive on email and seems like his preferred method of communication.  I would say that his 1x1’s are as effective as other Academy CEOs.  I’m not sure that the executive team meetings are as effective as they have been in the past as there seems to be a desire to limit discussion.  When getting into the details of something, the COO will quickly step in to say that we’ll take it offline and bring a resolution back to the CEO.  I’m not sure if this comes from the COO wanting to be the funnel or the CEO not wanting to be get involved in the details. However, sometimes the CEO needs to hear the details, especially one that has only been in the position for two years.  He is fine working by email which is great given his schedule.  He is very responsive on email. The only problem with email is that it can be difficult to fully explain an issue, but it seems to be working. 
+(MR- DIRECTOR OF FINANCE)- DIRECTOR OF FINANCE) I feel he is very effective with me. I don’t always see results from his communications with others. I can’t say if this is due to the structure of the communications. I don’t know who Stephen has 1x1s with. I find him to be very prompt in getting back to me via email.  I’ve never asked for a meeting outside of regularly schedules ones.  I have not seen any of the VP’s change or improve regardless of his communication.  I’m not sure why.   
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) I find that he is very responsive to my communications and is always available when I need him. 
+(LMENDEN- COO) In my experience, he is highly effective in 1-1 settings, clear in emails (although messages can be lost in long text), and sometimes misunderstood in meetings, depending on the audience. He is a nuanced thinker and speaker, whose style works better for some than others (which is no criticism of him, just an observation). 
+(GAIL SCHMIDT- VP OF SOCIETY AND GLOBAL RELATIONS) I very much appreciate the opportunity to meet with the CEO given his extremely busy schedule.
+(DALE FAJARDO- VP EDUCATION) His emails etiquette is great. Always appreciate his supportive and positive feedback. Meetings are crisp and collaborative.
+(BK- DIRECTOR OF HEALTH POLICY) 1x1’s are fantastic.  
+•	Please comment on what behaviors or structures/systems of working make him least or more effective?
+(JK-VP MEMBERSHIP AND ALLIANCES) I have limited exposure to Dr. McLeod as I am relatively new to my role. I think there is uncertainty among staff regarding his preferred communication format (delineating between email and face-to-face meetings) and appropriate context for each. Without clear guidance on communication preferences
+(FLMD and VP of QUALITY AND DATA SCIENCE) He is forthcoming in discussions and loves to be engaged in discussion and very open to having different points of view to consider.  This is a more academic perspective, which is different than the traditional relationship we have had at the Academy with our CEO.  With prior CEOs, it has been a more hierarchical relationship, and we had some independence, but there was less dialogue and discussion, and more of directives and specific actions to be implemented by the executive team.  I think that this is a shift. 
+(BB- DIRECTOR of MARKETING) In meetings, his verbal communication is not direct, and it can be hard to decipher the key points.  His sentence structure is complex/meandering and it’s sometimes hard to follow exactly what he’s saying.  Presenting to large groups like at the all-staff meetings, his presentation style seems low energy.  On the positive side, he asks great questions, and his written communications are very clear.
+(JC – VP IT) Stephen has a sharp mind, and you can see that he is thinking ahead on several fronts. It is recommended that he expresses and is clear about what he wants (in a group setting) as needed and that we are tracking with him more, it’s not clear and we often leave not knowing what to do next.  
+(DR- VP MEETINGS & EXHIBITS) It might be good to have a coach to help him project as a more confident speaker. He does well speaking at professional meetings, but he is not projecting the same image to the staff.  For example, at the last all staff meeting, he stood sidewise to the podium with his legs and arms crossed. He didn’t always speak into the microphone and then rambled.  I heard from staff later that they didn’t really understand what he was trying to say.  It might be better for someone to make him some slides that will focus his talk or if he doesn’t have a lot to say, just don’t speak.  The CEO doesn’t always have to say something. 
+(BK- DIRECTOR OF HEALTH POLICY) He’s a great active listener and asks very thoughtful follow-up questions. 
+(MR- DIRECTOR OF FINANCE)- DIRECTOR OF FINANCE) - Director of Finance I like the straightforward direction I hear from him. I’m not sure everyone else hears his messaging.
+
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) He can be a bit verbose and sometimes it is hard to know exactly what his position is on something. I also think that while he may seem “fine” with something that didn’t go as planned, he may be very unhappy but just doesn’t say anything.
+
+(LMENDEN- COO) He is highly detailed and nuanced, which is a gift and a barrier for some listeners. Some are often focused on “what’s in it for me” or how the discussion affects what they should be doing, rather than seeing the direct value in engaging in the conversation, which is a strength of his. It’s helpful to remember that overloading with information or communication in one setting can decrease the effectiveness of communication
+
+(GAIL SCHMIDT – VP SOCIETY AND GLOBAL RELATIONS) Most effective:  gains input / listens. Least effective:  not being directive.
+(DALE FAJARDO –VP EDUCATION) Most: Willingness to have open discussions. Least: Focus on providing more updates on initiatives under internal consideration. Sometimes the group is wondering about next steps. 
+
+•	What could he do to improve or sustain his communication and transparency?
+
+(JK-VP MEMBERSHIP AND ALLIANCES) I appreciate Dr. McLeod’s communication style, particularly during our 1:1 meetings. These sessions are invaluable opportunities for me to obtain insights, brainstorm ideas, and gain a better understanding of his vision and strategic direction.
+
+(FLMD and VP of QUALITY AND DATA SCIENCE) I think that there might be some hesitancy for him to be more direct and explicit if he had expected individuals to take more initiative or be more accountable for an outcome.  Maybe for Executive Team members, there should be a more explicit description of expectations and preparations for meetings and communications.  
+(BB- DIRECTOR of MARKETING) Periodic 1-1s with the VPs who report to Lawrence, so they also have a chance to speak directly with Stephen. He could use some coaching to be a more engaging and energetic speaker to large groups.
+(JC- VP IT) With the executive team, periodically check on things that he has asked the COO to direct. There is a lack of alignment and clarity between what he wants and what has been communicated via the COO.  The COO is attempting to interpret what the CEO wants and often misses his intention.  While not negating the COO’s role, it is beneficial to hear directly from the CEO at the executive level, whether you are one of his direct reports or not.
+(BK- DIRECTOR OF HEALTH POLICY) Be more direct to the point, and clear when communicating. Sometimes it takes a while to clarify and confirm what he’s saying and what really needs to happen. 
+(DE- DIR of BRAND & CREATIVE) If he could better influence others within the organization to have more transparency and consistency with communicating information and decisions to staff working upstream, midstream, and downstream toward the same long-term objectives.
+(DR- VP MEETINGS & EXHIBITS) I think more direct communication with the executive team would be more effective. Too much gets lost in translation. He should also consider at least a monthly 1x1 with VPs who do not report to him so he can hear directly what their issues are. It would cut down a lot on the back and forth.
+
+(MR- DIRECTOR OF FINANCE)- DIRECTOR OF FINANCE) - Director of Finance I think he could be more direct in certain situations.  I feel I get the messaging and that there is transparency. However, I’m not sure that is universally felt across the executive team.
+
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) Provide clear and concise answers and make sure he communicates his expectations and that they are understood to avoid any problems later.
+
+(LMENDEN- COO) Continue to refine/boil down his messages in meetings. Some experience meetings with him like a seminar class where there was a discussion but not a specific path after. Also, he is brilliant and can wing any conversation but for some, they can miss his message when he is not intentional. Ask, “What do I want the team to remember/do after what I’ve said? Is that clear to them?” If this shift is too challenging, it would be helpful for him to just continue to be patient if the more nuanced communication doesn’t yield the result he wants, even if it feels like he was clear.
+(GAIL SCHMIDT – VP SOCIETY AND GLOBAL RELATIONS) Ensure that all staff / physician leaders are aligned on an outcome – communicate the substance and reasoning behind his decisions so everyone can get behind his decisions 
+(DALE FAJARDO – VP EDUCATION) Don’t be afraid to “overcommunicate.” I expect this will help the group understand what’s going on inside his thought processes.  Explain the “why” (of why we’re doing something) and how it ties to our mission to protect sight and empower lives.
+Collaboration and Team Dynamics:
+
+•	How does the CEO foster collaboration and teamwork within the executive team and across departments?  
+(JK-VP MEMBERSHIP AND ALLIANCES) The Academy has historically operated within silos, with departmental, hierarchical, and functional boundaries often impeding the flow of information and impeding collaboration. This has resulted in a reluctance among staff to share information, driven by concerns about perceived value and status within the organization.
+(FLMD and VP of QUALITY AND DATA SCIENCE) He fosters discussion and a variety of different perspectives.  He models inclusion, and talks about not working in silos, and working across divisions.  
+(RH – VP GOVERNMENT AFFAIRS) This is one of his strengths.  Since Dr McLeod has become CEO, I feel like there has been a real effort to foster cross-division collaborations at all levels. As a result, I have a much better understanding of other parts of the Academy that I don’t normally work closely with.  I think the adoption of our true north principles have also provided greater alignment of our overall strategic goals across-divisions within the Academy.
+
+(BK- DIRECTOR OF HEALTH POLICY) Multidepartment projects, like the FQHC initiative and MYF, foster collaboration and teamwork across leaders and their departments
+(DE- DIR of BRAND & CREATIVE) There have been some recent improvements with collaboration among departments and divisions, but it has been done as one-offs and hasn’t been a cohesive or coordinated process.  
+(DR- VP MEETINGS & EXHIBITS) I think he wants to foster collaboration.  I think he is still learning who is responsible for what. 
+(MR- DIRECTOR OF FINANCE) - Director of Finance He is very good at two-way conversations.  He listens and asks and asks and listens. He is not combative. He has a cerebral approach which fosters communication and collaboration. He could be more impactful if he would set clear directions, accountabilities, and deadlines with progress updates along the way.  
+
+(TMGOV- VP OF FOUNDATION)- VP of Foundation Stephen has done a great job in breaking down the silos and there is more to do in this area. But as he has brought us forward through huge cross divisional projects, the teamwork has improved.  It really is important that he has done this and I think the Academy’s work product will improve as a result.
+
+(DM-DIRECTOR OF ONLINE EDUCATION) I can’t speak to his work with executive management. For his support of other staff and to improve dynamics, I’d encourage he float through the office more often and engage directly. I am in the office 3-4 days a week and have never seem him except when I go up to his office (I think that’s happened twice). Many staff remain reluctant to get back to the office and his presence felt within the building might help draw them back if he were more present.  I think it would benefit his knowledge as well.  
+(JBENJ- DIRECTOR OF THE MUSEUM OF THE EYE) The two direct emails I received from Stephen this year were to ask for help from a group of staff members. In these emails I found him to be extremely thoughtful. He seemed to know each person’s role and knowledge base – asking individuals for specific information. From my experience, it is very rare that a CEO has a grasp on what each staff member does and what knowledge they have access to. In addition, Stephen was asking for feedback on something he wrote and I was happy to find him receptive to edits from staff at all levels.     
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) He is keen on cross-divisional collaboration and has a very hands-off approach during meetings which encourages the VP’s to take the lead in discussions and planning. Unfortunately, I’m not sure the VP’s always love the cross-divisional projects which can be a struggle when it comes down to dividing the actual work (example: the Academy party being planned for this year). 
+(LMENDEN- COO) Stephen is very positive but as an introvert, he sometimes visibly seems to be uncomfortable in team settings for more than a few minutes. He does message, although too indirectly for many, that he expects the leadership to collaborate. He does not call out negative team dynamics or failures to work across departments, which he largely leaves to Lawrence.
+(GAIL SCHMIDT -VP SOCIETY AND GLOBAL RELATIONS): During Executive Team meetings, consistently encourages cross-divisional efforts and increased collaboration.
+(DALE FAJARDO- VP EDUCATION) He allows for open discourse during our ET meetings and encourages directors to join the ET meetings when the respective VP is away. Some VPs may be slow on the uptake of this...It’ll take time. 
+•	Please comment on what behaviors of working make him least or more effective?
+(FLMD and VP of QUALITY AND DATA SCIENCE) He is very appreciative and compliments everyone on their work and efforts.  That is very affirming to people in terms of their accomplishments.  
+(JC – VP IT) Listening to what is being said and engaging in the conversation toward a solution make him more effective
+(RH- VP GOVERNMENT AFFAIRS)  His collaboration is more effective and helpful in making sure we are fully considering the potential impact a policy could have on our membership or be better prepared for potential blowback from a decision that may not be popular with parts of our membership.
+(BK- DIRECTOR OF HEALTH POLICY) Dr. McLeod has a knack for thinking creatively and I really appreciate hearing his perspective coming from a large academic center.
+(DR- VP MEETINGS & EXHIBITS) I think he could be more effective if he relied more on the entire executive team and engaged them directly in discussions. Everyone has a unique wealth of knowledge that would be beneficial to a relatively new CEO. The Academy is a complex organization and will take years to learn all the details. 
+(MR- DIRECTOR OF FINANCE) - Director of Finance As mentioned, his approach and demeanor to everything fosters communication.
+(LMENDEN- COO) His commitment to attending executive and staff events is much appreciated. 
+(GAIL SCHMIDT- VP SOCIETY AND GLOBAL RELATIONS) Most effective:  Actively seeks staff and physician input. Considers and respectful of ALL input.
+(DALE FAJARDO- VP EDUCATION) Open communication that is encouraged from the top has allowed for a collaborative environment. Recommendation: Do not shoot down an idea too quickly or be critical of an idea by correcting an individual on the spot as they’re trying to formulate an idea.
+•	What could he do to improve or sustain current collaboration or other dynamics
+
+(JK-VP MEMBERSHIP AND ALLIANCES) I believe Dr. McLeod is cognizant of this entrenched issue and has taken steps to foster better collaboration through the formation of cross-divisional teams co-led by different members of the executive team. To further facilitate this cultural shift and to mitigate power dynamics within a team.  Dr. McLeod can play an important role to actively solicit input from all team members, regardless of their role or tenure. He can create opportunities for open dialogue and exchange of ideas in team meetings. Often times the conversations in the executive team meeting is dominated by one or two seasoned and more vocal executives.  There have been situations where it was extremely challenging to express my opinion because there is no “in” until the topic has ended or the meeting ran out of time.
+Dr. McLeod can play an important role to actively solicit input from all team members, regardless of their role or tenure
+(FLMD and VP of QUALITY AND DATA SCIENCE) Activities outside the regular work environment such as;  lunches, retreat which was done the first year of his being CEO.  
+(JC- VP IT) I recommend that he is confirming explicit directions: On some occasions, he has stated what he wants throughout a conversation, leaving it to those listening to figure out what he wants.
+(RH – VP GOVERNMENT AFFAIRS) Continue to identify opportunities for divisions to work collectively towards a clearly articulated goal. 
+(BK- DIRECTOR OF HEALTH POLICY) Being physically separated from the headquarters building can make off-site employees feel left out. Simple changes like making sure meetings/trainings aren’t scheduled before or after hours for those employees can go a long way in making them feel part of the team. For anything that is provided for the SF office (e.g. lunches, parties, contests, volunteer opportunities), the same should be attempted for satellite employees.
+(DE- DIR OF BRAND & CREATIVE) To make significant improvements, it could be beneficial to take a more holistic approach and do an analysis of how teams operate in terms of workflows and look at what processes/standards could be changed to increase collaboration and team dynamics.
+(DR – VP OF MEETINGS & EXHIBITS) Ensure that everyone can be heard and that everyone is being treated in a respectful, professional manner.  
+(MR- DIRECTOR OF FINANCE) - Director of Finance Keep doing what he is doing. If he were to change anything I would advise to be more direct when possible.
+
+(TMGOV- VP OF FOUNDATION)- VP of Foundation Sustain!  Stephen fosters collaboration by his leadership style and his “can do” attitude.  He encourages us to lean into our strengths and he understands what those strengths are across the team.  Those who aren’t willing or able to take on new challenges or ways of thinking are less likely to succeed under his leadership which is understandable when you are Stephen, and you want to drive towards big bold initiatives.  We had a workshop at Cavallo Point in his first year and Stephen’s leadership at that workshop was inspiring. We left there feeling that there were actionable steps to improve our work and change the ways we do our business.  I’d love to see another executive team workshop.  He has a true connection to the board who feel good about his leadership. He excels in running the board meetings. He also deals with the challenges presented by board members in a very diplomatic way and from my vantage, solves the problems as they come up with grace and intellect.  He also has a way of making his executive team feel good about their work product and wins. He often calls out the VPs for their work after a special event/conference, or even on the day-to-day business.    
+
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) Communicate his expectations clearly and help define the roles he sees for the various participants in cross-divisional projects to avoid turf issues and unbalanced workloads.
+(LMENDEN- COO) Engaging with a broader spectrum of the team at functions would help inspire them to greater collaboration and a better dynamic. Being clearer about his expectation for how the executive team should collaborate and engage positively with each other would also help him be more effective. Be clearer that everyone must demonstrate Academy values, even where it is uncomfortable to be direct. 
+(GAIL SCHMIDT- VP SOCIETY AND GLOBAL RELATIONS) Continue to push for opportunities to collaborate cross divisionally.
+(DALE FAJARDO- VP EDUCATION) Don’t be afraid to be a positive coach and encourage folks to speak their mind.
+Accountability and Performance Management:
+
+•	How does the CEO support the professional development and well-being of employees?
+
+
+(JK-VP MEMBERSHIP AND ALLIANCES) The Academy has established programs to support professional development and organizational engagement since Dr. McLeod assumed the CEO position. Initiatives include more structured cross-functional project teams, offering professional coaching for managers, and implementing succession planning.  The Academy also recognizes staff for their contributions through bonuses, public acknowledgment of achievements, and expressions of gratitude from the executive office. 
+
+
+(FLMD and VP of QUALITY AND DATA SCIENCE) He supports continued development, educational meetings and well-being of employees. 
+(SM- DIRECTOR of PUBLIC RELATIONS) I’m unsure if it was his decision to have managers take equity and inclusion training, but it was helpful, suggestive of a desire to create a safe and trusting environment where people feel comfortable expressing their ideas and opinions. Anything he and others in the executive team can do to foster such an environment would be beneficial.
+(RH- VP GOVERNMENT AFFAIRS) Whenever I have approached him about speaking opportunities for myself or members of my team, he been very supportive of allowing us to pursue those opportunities. He has also been supportive of allowing staff to participate in meetings, even when travel may be involved. Being able to work on their presentation skills is helpful for building their confidence and makes them feel valued. Also, because I uniquely can directly engage with the CEO is also helpful for the professional development of my division’s directors.  The CEO also does a good job of recognizing staff for high performance, and I think that is appreciated.
+(BK- DIRECTOR OF HEALTH POLICY) I feel like most of this comes from my manager or HR, so I’ve not seen anything come from the CEO. The most prominent example that comes to mind is summer early release. I try to take advantage of this, but unfortunately due to my workload I’m not able to fully participate.
+(DE- DIR OF BRAND & CREATIVE) I think Dr. McLeod is leading by example by soliciting 360-degree assessment of his performance. We need to do more for staff for both things.
+
+(DR- VP MEETINGS & EXHIBITS) Yes but I can’t think of anything from him at this point. Again, it’s also difficult to determine what comes from the COO vs. CEO.  We often only receive the decision, so it is not always clear.
+(MR- DIRECTOR OF FINANCE) - Director of Finance He is very open to employee wellness through various programs. He also supports continued education and career development. He has approved leadership coaching, holidays, time off, yoga class.  There is one caveat that all these programs were here before he got here, he hasn’t done anything that I’m aware of other than support what is already in place. 
+(TMGOV- VP OF FOUNDATION) Stephen is very encouraging of employees taking professional development courses and the Academy provides opportunities for those courses.  He is enthusiastic about all-staff events and participates, whether it is a ping-pong tournament or all staff meeting.  Through the Director of People, he provides for the employees to work remotely and to encourage work-life balance in many ways from post-Christmas week off, to summer Fridays to bonuses and excellent health care and more, staying abreast of the best workplace practices and keeping the Academy a great place to work.  We have never had a conversation about doing anything different. 
+
+(DM-DIRECTOR OF ONLINE EDUCATION) Dr. McLeod seems to be process-oriented and appreciates clear evidence, documentation, and deliberation. I believe through his modeling of process improvement and attention to detail, we are actively focused on quality improvement and defending our work processes and output. I haven’t witnessed his support of leadership or professional development. 
+When he hears about a problem, he wants an A3 model.  He likes undertaking a scientific approach to problems.  He wants to survey people and dig into data before change.  There is a significant disconnect between what he says and how it gets interpreted because he’s so abstract.  It would be great to hear from him directly.  
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) The Academy has generous benefits for employees and offers lots of perks such as summer hours to ensure well-being. He encourages learning and appears to be supportive of professional development, but I have not interacted with him directly on this issue so I’m not sure.   
+(LMENDEN- COO) He is very kind and supportive of professional development activities. One challenge is the high bar he sets for himself. He is extremely hard-working and sets very high standards for himself, which also creates a high bar for other executives. So, while the Academy is trying to support physicians to avoid burnout, we are not as focused on executives and team well-being. 
+(GAIL SCHMIDT – VP SOCIETY AND GLOBAL RELATIONS) Regularly provides an opportunity to meet with him; willingly answers questions. Responds positively via email on successful outcomes, etc.
+(DALE FAJARDO- VP EDUCATION) I’ve observed very positive feedback and support of folks to try new professional development opportunities, which is wonderful!
+•	Can you provide examples of initiatives or programs to promote employee leadership development and organizational engagement?
+
+(JK-VP MEMBERSHIP AND ALLIANCES) Coaching for Managers and succession planning. 
+(FLMD and VP of QUALITY AND DATA SCIENCE) Juneteenth, diversity and inclusion training, hiring of 2 directors for Vice Presidents.
+(SM- DIRECTOR of PUBLIC RELATIONS) This 360-feedback exercise is a good example of leading by example and holding himself accountable first. Many of us have goals that have not been updated for a long time. The current goals process is onerous, and many employees don’t see the benefit. It appears that many of the VPs haven’t prioritized performance management either. Anything he could do that encourages a less burdensome, more continuous cycle of goal setting/assessing/providing feedback would be helpful.
+(RH – VP OF GOVERNMENT AFFAIRS) When an Executive Team member can’t attend our weekly meetings, we have been sending one of directors to the meeting. This gives them an opportunity to hear about some of the initiatives that may be taking place in the Academy that don’t directly involve our division. It also gives them a better understanding of the Academy’s decision-making processes and makes them feel more connected to the Academy.  Some of the recent leadership training programs, particularly those on trying to have a more inclusive workplace, have been extremely helpful.
+(BK- DIRECTOR OF HEALTH POLICY) None that I can think of.  When I joined the company, I was surprised to find that we have infrequent manager trainings on things like bias, but I feel more could be done to support leadership development for directors. I was surprised when I joined the company that there was no formal people manager training course. When I had to let an employee go, I was given a link to a LinkedIn training video. Consequently, much of what I’ve learned in terms of managing employees has been learned from my own Manager.  
+(DE- DIR OF BRAND & CREATIVE) Having leadership coaching sessions has been beneficial. We need more organizational engagement and alignment with how we do things.
+(MR- DIRECTOR OF FINANCE) - Director of Finance I can’t point to any new programs, but he has made it clear he is in favor of the programs we do have.  
+
+(TMGOV- VP OF FOUNDATION)- VP of Foundation There are many programs which promote leadership at the Academy if the staff wants to take advantage of them, from committees that are formed to work with volunteerism, staff parties, all staff organizing committee, writing for the internal newsletter, being a buddy for a new hire, and encouraging staff to ask managers when they want to start a new program. Lawrence has been instrumental in solving for engagement across a diverse workforce, with his diversity, equity and inclusion workshops, and his writings to staff to shout out about various accomplishments.  And all of this makes people feel good, acknowledged, and then work hard for the good of the organization which at the Academy, all take pride in.
+
+(DM-DIRECTOR OF ONLINE EDUCATION) I don’t know of any programs that enhance leadership development that he’s created or support from him around this. 
+(LMENDEN- COO) He has been very supportive of the work of HR in terms of more frequent all staff meetings, specific diversity initiatives (an Academy-wide Juneteenth holiday and other events), improved benefits and working conditions (expanded remote work, better 401k program, vision benefits), and coaching for key leaders (not just in performance management situations), just as some examples.
+(GAIL SCHMIDT- VP SOCIETY AND GLOBAL RELATIONS) Encourages staff participation in external meetings – U.S.-based and international.
+(DALE FAJARDO- VP EDUCATION) Allowing us to do volunteer work to develop our leadership skills and best practices that we can bring back to the Academy.
+•	Please comment on what behaviors or structures/systems of working make him least or more effective?  
+
+(FLMD and VP of QUALITY AND DATA SCIENCE) He is very hard working and responds to every email and request. 
+(BK- DIRECTOR OF HEALTH POLICY) The CEO has the influence to make leadership development for directors a higher priority.  This doesn’t seem to be his priority at this time.  
+(MR- DIRECTOR OF FINANCE) - Director of Finance One specific I can share is the remote work structure.  He has been very good about allowing it but he has also put it in check and with the help of Lawrence and HR there is clear messaging around this.  He also understands the importance of in person
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) Most Effective:  I think his friendly and relaxed manner make him very approachable. He is a very curious person and is deeply interested in every topic and is willing to study and understand an issue before acting which is great. 
+
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) Least Effective: I think his hands off approach can be a little confusing for staff who may be unclear of his expectations on a project which can lead to frustration, extra work and disappointment in final outcomes.
+(LMENDEN- COO) He seems to have hit a good balance of delegating these activities to others to drive them forward and supporting them to be successful, including participating himself.
+(GAIL SCHMIDT- VP SOCIETY AND GLOBAL RELATIONS) Least:  He doesn’t communicate with the broad staffer.  The broader staff may like to hear from him more often.
+•	What could he do to improve or sustain current levels of accountability and performance management?
+
+(JK-VP MEMBERSHIP AND ALLIANCES) However, there is a lack of clarity among staff regarding the criteria for earning a spot bonus, as this is not publicly shared even among the executive team. The lack of transparency and understanding contributes to animosity among departments and individual team members when news of spot bonuses are mentioned in casual watercooler conversations.  More staff are working much longer hours and some even on weekends due to heavy workloads. Conversely, there are also staff that are at 50-60% capacity. As the Academy evolves to meet the demands of its membership, this presents a good opportunity to evaluate each department/division’s deliverables, impact/contribution to the organization and workload. Leveraging new technology to improve efficiency and recalibrating staffing resources across divisions, if applicable, can promote greater equity and accountability.
+
+
+(FLMD and VP of QUALITY AND DATA SCIENCE) I think that he has been clear about accountability and not having staff in roles that they are not proficient in.  It might be good to have that evaluated throughout the organization and have the accountability and outcomes-oriented emphasis re-emphasized.  On the other hand, there also needs to be work-life balance; many are doing a lot of work and a lot of hours, so there also needs to be some attention on balance.
+(BK- DIRECTOR OF HEALTH POLICY) It would also be very helpful to have more performance management training for managers. Not just, how to develop performance improvement action plans or terminations, but also how to coach team members who are looking to apply for a promotion.
+(DE – DIR OF BRAND & CREATIVE) Recommend working on alignment with the senior leaders and organizational culture of performance.  
+
+(MR- DIRECTOR OF FINANCE) - Director of Finance I think he is doing fine in this regard.  I don’t have a lot of direct exposure to the accountability and performance management that he uses for the executive team.
+
+(DM-DIRECTOR OF ONLINE EDUCATION) I do not see him supporting well-being or career improvement other than supporting whatever already existed before he took his office.
+
+(TMGOV- VP OF FOUNDATION) I have struggled with the metrics and data reporting so that Stephen understands performance in our division. I hope that with the new CRM system, this will become easier and provide transparency for Stephen on our work. I think once this tool is in place, Stephen could ask for more in-depth information and circle back each week to address what has been accomplished during the timeline imposed which is what I do with my team.  I’d like to know how best to report to Stephen. It would be good to have a template that each division uses with accountability metrics laid out.  This would be used to report regularly to him.
+(LMENDEN- COO) There is a sense that if a division makes money for the Academy, it is held to a lower standard of behavior. He models great integrity and Academy values and making clear that these standards apply broadly would help with accountability. Directly giving feedback when executives fail to collaborate or perform, share information or behave less respectfully (e.g., microaggressions) would reinforce the messages that Lawrence and Jen are sending broadly with his support. 
+(GAIL SCHMIDT- VP SOCIETY AND GLOBAL RELATIONS) To sustain – just continue to offer the opportunity to meet with him and get feedback/input on direction.
+(DALE FAJARDO -VP EDUCATION) Walk around the office in person and ask folks on the desk plate to give their honest feedback. Not only will you get unvarnished insight, but people will appreciate it and be compelled to support you in the mission…because you care about them and getting their insights.
+Stakeholder Relationships:
+
+•	How does the CEO manage relationships within and outside of the organization?  
+(JK-VP MEMBERSHIP AND ALLIANCES) Dr. McLeod represents the Academy well with external stakeholders and partners. His management of the OMIC issue and working with the OMIC CEO to identify a mutually positive outcome through continuous discussions and meetings over the span of a year is to be commended. 
+(FLMD and VP of QUALITY AND DATA SCIENCE) This is done on a 1:1 basis; most of the stakeholders he already knows well and he has established trust and respect with these stakeholders. 
+(RH – VP OF GOVERNMENT AFFAIRS) We have a diverse membership and I think the CEO does a good job of engaging with our members. Even though we may not always do something that a member or segment of our membership would like, I think they respect those decisions because of his engagement one the issues.   By paying attention to their concerns, ideas, and feedback, the CEO has been able to build trust with our members by managing and meeting expectations, operating with integrity, and keeping promises.
+I think this also applies to how he manages his relationships with his counterparts in other organizations. We collaborate with a lot of other organizations on our advocacy campaigns, and I think the fact that the CEO wants to be an active partner in finding common ground and solutions has won the respect of his colleagues.
+(BK – DIRECTOR OF HEALTH POLICY) Dr. McLeod was incredibly effective at representing the Academy when he testified before Congress.  He manages external relationships very well and with great care.  
+(DR- VP OF MEETINGS & EXHIBITS) Stephen seems to have good relationships with ophthalmic leaders around the world. He knows a lot of people and that has been useful.  His relationships are not strong inside the organization. To most of the staff, he appears to operate on a separate level. Again, it’s not clear if this is his desire or the COO’s desire to be the funnel. 
+(MR- DIRECTOR OF FINANCE) - Director of Finance I have limited exposure to how he is perceived by the outside world but from interactions I have been part of the industry leaders like and respect him.  The same holds true for other ophthalmologists (members). The Board members all seem to like him and more importantly respect him and value his input on any topic. Within the organization I have not heard a single negative comment. That is saying something.
+(TMGOV- VP OF FOUNDATION) Whenever I have asked Stephen to speak to a key stakeholder or member, or I have witnessed his interactions with board members, he is engaging, kind, wise and starts from a listening perspective which is so important.  Even in a potentially contentious situation, he diffuses the situation and the person he is speaking to leaves feeling he has been heard and action items are in place to further mitigate any further problems. He is a very effective manager of relationships and I have learned much from him. 
+
+(LMENDEN- COO) He weighs in very directly and effectively, drawing on his networks.
+
+(GAIL SCHMIDT-VP OF SOCIETY AND GLOBAL RELATIONS) Regularly takes part in external meetings which continue to grow his network, familiarity and influence  
+
+•	Does he effectively represent the company’s interests and values in these interactions?
+(FLMD and VP of QUALITY AND DATA SCIENCE) Yes, he is very cordial and respectful but also is firm and confident in representing the Academy's interests and values.  
+(RH- VP GOVERNMENT AFFAIRS) Yes.
+(DE- DIR OF BRAND & CREATIVE) Yes.  His testimony to the House Subcommittee on VA eyecare was impactful. 
+(DR – VP MEETINGS & EXHIBITS) He represents the Academy well on issues he knows about as the Congressional testimony supports. It will take a while to be fully up to speed on everything. 
+(MR- DIRECTOR OF FINANCE) - Director of Finance: Yes, he always represents the Academy and it is mission and the overall goal of all doctors and specifically ophthalmologists.
+(TMGOV- VP OF FOUNDATION) Absolutely!  Coming from a patient centric organization, he seems to see everything the Academy does is for the members and through the members being effective, the patients.  Additionally, and with great importance, he continues to offer DEI to the conversation whether it be how we nominate for committees or boards, or how we as staff are mindful of others as we work together, as we engage future hires, and more.
+
+(LOUISE OWEN- MANAGER OF THE BOARD OF TRUSTEES) Yes, from what I have observed, he always has the Academy’s interests and mission top of mind.
+(LMENDEN- COO) Yes. He does seem overstretched with some of his travel and stakeholder commitments. 
+(GAIL SCHMIDT- VP OF SOCIETY AND GLOBAL RELATIONS) Absolutely YES.  BOT and committee leaders and members are impressed by his leadership.
+(DALE FAJARDO-VP EDUCATION) Yes, it is clear he represents the Academy well as evidenced by his testimony in Washington vis-à-vis the VA supremacy initiative.
+•	Please comment on what behaviors make him least or more effective?
+(FLMD and VP of QUALITY AND DATA SCIENCE) I think the intellectual scope and breadth is impressive and helps others respect his perspectives and the thoughtfulness of his approaches.  I think he has a more natural introverted personality type, but he works hard at this, and it looks effortless to be outgoing and engaged with others.  
+(DR- VP MEETINGS & EXHIBITS) He seems to have a reluctance to engage. So many issues would be resolved immediately if he would pick up the phone or send an email to whomever is having the issue.  Members don’t want to hear from staff – they want to hear from the CEO. And often, they don’t want more than for the CEO to hear their issue.  Now, VPs are having to engage which only delays the inevitable. 
+(TMGOV-VP of FOUNDATION) His overall demeanor is reassuring, professional and inviting.  His direct outreach and consistent “showing up” to build relationships with key partners is priceless, even if at times uncomfortable or outside his preferences as a more introverted, scholarly person.
+(GAIL SCHMIDT- VP OF SOCIETY AND GLOBAL RELATIONS) He is excellent ‘on his feet’ when presenting and answering questions on any area of Academy activity/program, etc.
+(DALE FAJARDO-VP EDUCATION) More effective: It is clear the Board of Trustees appreciates his openness, and their reactions are very positive that has resulted in a collegial environment with robust discourse. 
+(BK – DIRECTOR OF HEALTH POLICY) Dr. McLeod’s confident, yet humble way of explaining complex topics makes him a more effective representative of the Academy. 
+•	What could he do to improve or sustain current dynamics?
+
+(JK-VP MEMBERSHIP AND ALLIANCES) Dr. McLeod has a minimal presence with internal staff. He remains an enigma to many individual contributors. I would encourage Dr. McLeod to consider increasing his visibility and engagement with the at-large staff team as this can be impactful in shaping the Academy’s organizational culture and cultivate a sense of connection (and engagement) among individual contributors. Incorporating a town hall meeting component at the all-staff meeting, attending division gatherings, or hosting a virtual coffee chat or office hour a few times a year can build stronger relationships and also humanizes this position. 
+
+(FLMD and VP of QUALITY AND DATA SCIENCE) He might need to spend more time with specific external stakeholders to cultivate relationships.  
+(RH- VP OF GOVERNMENT AFFAIRS) I think continuing to communicate consistently and finding new ways to demonstrate/enhance the Academy’s value to them is key for sustaining our relationship with our members. 
+(BK- DIRECTOR OF HEALTH POLICY) I think he should continue to seek opportunities for subspecialty and state societies to provide input. Council meetings and OLAG help Academy staff better understand the specific issues facing these groups. Paired with those “listening sessions”, I think more could potentially be done to show what the Academy is doing to support these societies.
+(DR- VP MEETINGS & EXHIBITS) I think he could engage sooner with volunteers and leaders when issues arise.  VPs can only take the conversation so far. The members want to hear from the CEO and I think if he engaged sooner, issues would not escalate as much. I am seeing him participating more in important discussions with members and volunteers so I think this is improving already. 
+(LMENDEN- COO) Keep doing what he is doing.  I can’t imagine he has any extra bandwidth to expand what he already does. Short of that I don’t know what he could do to improve the relationships. As with the executive team, continuing to keep in mind the audience and having compassion for their limitations compared to his own capacity. 
+(DALE FAJARDO-VP OF EDUCATION) Continue efforts to be transparent/open to listen/encourage development of new ideas.
+Overall Impact and Leadership Effectiveness:
+
+•	On a scale of 1-5, how would you rate the CEO’s overall effectiveness as a leader?  1 being least effective and 5 being extremely effective.
+
+DIRECTOR 4.7
+DIRECTOR 3.6
+VICE PRESIDENT 4
+VICE PRESIDENT 5
+BOARD: 4
+COO 4
+VICE PRESIDENT 5
+VICE PRESIDENT 4
+DIRECTOR 3.80
+DIRECTOR 4
+DIRECTOR 4
+VICE PRESIDENT 4
+VICE PRESIDENT 4
+DIRECTOR 3
+VICE PRESIDENT 4
+VICE PRESIDENT 4
+ATTORNEY 4
+DIRECTOR - 5
+
+•	Are there any additional areas to improve or sustain?
+
+
+(JK- VP MEMBERSHIP AND ALLIANCE) Dr. McLeod is an effective leader and Academy CEO. I believe he has the vision to advance and transform the organization. I hope he will increase his presence within the staff so more staff can see and understand his leadership style and vision and be more engaged with the work they do to help advance the organizational goals.  Lastly, Dr. McLeod and many on the executive teamwork at night and during the weekend. While it is communicated to teams that they are not expected to work after hours and during vacation, it will be beneficial if top leaders can lead by example to disconnect from work during off-hours and vacation (e.g., not send emails to others after hours, limit and ideally disconnect from communicating with staff while on vacation). It assures staff that disconnecting completely from the Academy is the expected and encouraged norm. 
+
+(MR- DIRECTOR OF FINANCE) - Director of Finance Keep doing what he’s doing. When needed be more direct in his messaging to the Executive team and others. 
+(TMGOV- VP OF FOUNDATION) I’d just say that the points I made above, with communication and method of communication is key to consider.
+ 
+(MR- DIRECTOR OF FINANCE) I truly love working with him. That is not to say it’s always easy. But I get the feeling he cares. And only wants to promote the Academy and our members along with the vision space in the world.
+
+(JBENJ- DIRECTOR OF THE MUSEUM OF THE EYE) All staff recognize how busy Stephen is and that a lot of the day-to-day leadership of AAO must be delegated. If he wanted to improve his leadership among staff, he could attempt to attend individual division meetings or write a few more all staff emails so we “see” more of him. 
+(LMENDEN- COO) Summary: Improve clarity of messages and expectations, have patience with the diverse perspectives and capabilities of leaders and staff inside and external to the Academy, personally model work-life balance to sustain and retain a strong team.
+(DALE FAJARDO- VP OF EDUCATION) Lead with the language of not being afraid to try new ideas/initiatives. Adopt a startup mentality is a good reference point. Focus on the “why” as that will coalesce the organization’s mindset. 
+(BK- DIRECTOR OF HEALTH POLICY) Engagement of front line to executive leadership expertise and input is recommended.
+(JC -VP IT) I would recommend improving engagement and collaboration with the staff broadly and most importantly the Executive Team.  
